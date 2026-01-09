@@ -1,0 +1,56 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+**/bin/
+**/obj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Package & dependency files
+*.nupkg
+*.snupkg
+packages/
+
+# Test & coverage
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# User-specific files
+*.rsuser
+*.userprefs
+
+# Publish outputs
+[Pp]ublish/
+
+# Other build artifacts
+*.tmp
+*.cache
+*.ilk
+*.meta
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+
+# Other
+*.log
